@@ -1,16 +1,38 @@
-## Hi there 👋
+<p align = center ><img src="https://i.imgur.com/kwClhe1.png"> </p>
 
-<!--
-**CharlyDiscord/CharlyDiscord** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
 
-Here are some ideas to get you started:
+<img align="right" width="400" alt="Shimarin" src="https://i.pinimg.com/736x/d2/9e/11/d29e118b29b4e4b978cc8b03ebf8624d.jpg"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>  𝒞𝒽𝒶𝓇𝓁𝓎𝒮𝒶𝓎𝒶𝓃 </h2>
+  
+- 🎮 Apasionado por los videojuegos: No solo disfruta jugarlos, sino que también tiene el objetivo de desarrollar un juego multijugador.
+- 📚 Estudiante: Actualmente estudia administración a nivel estratégico y previamente estudió programación. 
+- 😎 Youtuber: Produce videos para YouTube y comparte sus dibujos en Instagram.
+  
+<h2> /̽͝͝ 🄷🄰🄱🄸🄻🄸🄳🄰🄳🄴🅂 🄰🄲🅃🅄🄰🄻🄴🅂 /̽͝͝ </h2>
+  
+
+-Licenciatura en Administración: Actualmente estudiando y desarrollando habilidades en administración.
+
+-Programación: Conocimientos en HTML y C++, aplicados en proyectos personales y académicos.
+
+-Creación de Contenido: ¡En mi canal de YouTube, comparto tops, gameplays, y opiniones que no te puedes perder!
+
+-Gaming: Experiencia en juegos competitivos, juego League of Legends, Fortnite, Roblox y Osu!. ¿Qué otro juego me animaré a probar esta vez?
+  
+- <h4> ℛℯ𝒹ℯ𝓈 𝓈ℴ𝒸𝒾𝒶𝓁ℯ𝓈 </h4>
+ <a href= "https://www.instagram.com/charlysayan/"> Instagram </a>
+ <a href= "https://x.com/ELCHARLYSAYAYIN?t=m4A45vgcCtYs8E9_HKfb9Q&s=09"> Twitter </a>
+ <a href= "https://www.facebook.com/profile.php?id=100064713524391"> Facebook </a>
+  
+  </br></br>
+  
+<div align="right">
+<a href="UCoshN9f0MF4FnZQNRrgP2Ug">▶️YouTube channel</a>
+  </div>
+  </div>
+
+------
+- Copyright​ Charlysayan 2024 © Todos los derechos reservados -
+
