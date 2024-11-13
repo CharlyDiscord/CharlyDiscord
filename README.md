@@ -29,7 +29,7 @@
   </br></br>
   
 <div align="right">
-<a href="UCoshN9f0MF4FnZQNRrgP2Ug">▶️YouTube channel</a>
+<a href="https://www.youtube.com/@CharlySayan">▶️YouTube channel</a>
   </div>
   </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Charlysayan&label=Profile%20views&color=0e75b6&style=flat" alt="Charlysayan" /> </p>
