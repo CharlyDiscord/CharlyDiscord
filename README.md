@@ -32,7 +32,7 @@
 <a href="UCoshN9f0MF4FnZQNRrgP2Ug">▶️YouTube channel</a>
   </div>
   </div>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Charlysayan&label=Profile%20views&color=0e75b6&style=flat" alt="Charlysayan" /> </p>
 ------
 - Copyright​ Charlysayan 2024 © Todos los derechos reservados -
 
