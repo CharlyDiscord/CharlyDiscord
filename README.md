@@ -7,13 +7,13 @@
 <h2>  𝒞𝒽𝒶𝓇𝓁𝓎𝒮𝒶𝓎𝒶𝓃 </h2>
   
 - 🎮 Apasionado por los videojuegos: No solo disfruta jugarlos, sino que también tiene el objetivo de desarrollar un juego multijugador.
-- 📚 Estudiante: Actualmente estudia administración a nivel estratégico y previamente estudió programación. 
+- 📚 Estudiante: Actualmente en busca de un tema de estudio y previamente estudió programación. 
 - 😎 Youtuber: Produce videos para YouTube y comparte sus dibujos en Instagram.
   
 <h2> /̽͝͝ 🄷🄰🄱🄸🄻🄸🄳🄰🄳🄴🅂 🄰🄲🅃🅄🄰🄻🄴🅂 /̽͝͝ </h2>
   
 
--Licenciatura en Administración: Actualmente estudiando y desarrollando habilidades en administración.
+-Licenciatura en Administración: Estudio admnistracion en bachiller.
 
 -Programación: Conocimientos en HTML y C++, aplicados en proyectos personales y académicos.
 
