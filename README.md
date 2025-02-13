@@ -13,7 +13,7 @@
 <h2> /̽͝͝ 🄷🄰🄱🄸🄻🄸🄳🄰🄳🄴🅂 🄰🄲🅃🅄🄰🄻🄴🅂 /̽͝͝ </h2>
   
 
--Licenciatura en Administración: Estudio admnistracion en bachiller.
+-Licenciatura en Administración: Estudio administración en bachiller.
 
 -Programación: Conocimientos en HTML y C++, aplicados en proyectos personales y académicos.
 
