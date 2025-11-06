@@ -13,9 +13,9 @@
 <h2> /̽͝͝ 🄷🄰🄱🄸🄻🄸🄳🄰🄳🄴🅂 🄰🄲🅃🅄🄰🄻🄴🅂 /̽͝͝ </h2>
   
 
--Licenciatura en Administración: Estudio administración en bachiller.
+-Estudio administracion de empresas en bachiller.
 
--Programación: Conocimientos en HTML y C++, aplicados en proyectos personales y académicos.
+-Programación: Conocimientos basicos en HTML y CSS, aplicados en proyectos personales y académicos.
 
 -Creación de Contenido: ¡En mi canal de YouTube, comparto tops, gameplays, y opiniones que no te puedes perder!
 
