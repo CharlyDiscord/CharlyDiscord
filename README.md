@@ -15,7 +15,7 @@
 
 -Estudio administracion de empresas en bachiller.
 
--Programación: Conocimientos basicos en HTML y CSS, aplicados en proyectos personales y académicos.
+-Programación: Conocimientos basicos y actualmente aprendiendo.
 
 -Creación de Contenido: ¡En mi canal de YouTube, comparto tops, gameplays, y opiniones que no te puedes perder!
 
